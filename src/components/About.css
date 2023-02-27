@@ -1,0 +1,14 @@
+.skill{
+  padding: 10px;
+  list-style: none;
+  color: black;
+  text-decoration: none;
+  gap: 10px;
+}
+
+.skill li {
+  padding: 10px;
+}
+.skill img{
+  padding-left: 10px;
+}
